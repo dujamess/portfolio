@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@theme {
+  --font-inter:'Inter', 'sans-serif'
+} 
+@theme {
+  --color-custom: #6F826A;
+  --color-beig:#F0F1C5;
+  --color-move:#352F44;
+  --color-move1:#8E7BBD;
+  --color-move2:#4C455B;
+  --color-hlibi:#FBF3D1;
+  --font-luckie: 'Luckiest Guy', cursive;
+  --font-inter: 'Inter', sans-serif;
+}
