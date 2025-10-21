@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import Header from './components/Header.jsx'
+import Contact from './components/contact.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -11,10 +12,11 @@ createRoot(document.getElementById('root')).render(
       <div className='relative w-full h-full flex flex-col justify-start pt-10 items-center '>
         <Header/>
         <App />
+        <Contact/>
       </div>
-      {/* <div className='w-[150px] h-[150px] bg-amber-700 flex items-end justify-end'>
-        <img src="design-background.svg" alt='design-background' />
-      </div> */}
+      <div className='flex justify-end'>
+        <img src="design-background.svg" alt='design-background ' className='w-[1000px]'/>
+      </div>
     </div>
   </StrictMode>,
 )
