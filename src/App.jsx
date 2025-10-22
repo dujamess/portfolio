@@ -1,16 +1,16 @@
 
 import './App.css'
-import Badge from './components/badg'
-import Skills from './components/skills'
-import MiniProject from './components/miniProject'
-
+import Home from './components/Home/Home'
+import { BrowserRouter,Routes,Route } from 'react-router-dom'
 function App() {
 
   return (
     <div className="flex flex-col items-center">
-    <Badge/>
-    <Skills/>
-    <MiniProject/>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/home" element={<Home/>}/>
+        </Routes>
+      </BrowserRouter>
    </div>
   )
 }
