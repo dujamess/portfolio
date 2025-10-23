@@ -15,7 +15,7 @@ export default function Projects()
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="icon-link.svg" alt="icon-link"></img>
-                      <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">GameConnect</p>
+                      <a href="https://github.com/dujamess/GameConnect"  target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">GameConnect</a>
                     </div>
                   </div>
                   <div className="flex-col space-y-2">
@@ -25,7 +25,7 @@ export default function Projects()
                     </div>
                       <div className="w-[205px]  bg-move2 border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link"></img>
-                        <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Ui-GameConnect</p>
+                        <a href="https://www.figma.com/design/0P8kPpsnqV9DJtwH1fThbQ/Untitled?node-id=402-3406&p=f&t=rHOELxtjnSQPAaiP-0" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Ui-GameConnect</a>
                       </div>
                   </div>
                 <div className="flex-col space-y-2">
@@ -36,7 +36,7 @@ export default function Projects()
                     </div>
                       <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link"></img>
-                        <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Coreserve</p>
+                        <a href="https://github.com/dujamess/coreserve" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Coreserve</a>
                       </div>
                   </div>
               </div>
@@ -50,7 +50,7 @@ export default function Projects()
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="icon-link.svg" alt="icon-link"></img>
-                      <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">AlgoSwap</p>
+                      <a href="https://github.com/dujamess/algoswap" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">AlgoSwap</a>
                     </div>
                   </div>
                   <div className="flex-col space-y-2">
@@ -71,7 +71,7 @@ export default function Projects()
                     </div>
                       <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link"></img>
-                        <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">UI-khmessah.com</p>
+                        <a href="https://www.figma.com/design/umEgYSSSezBEjrtsLUrGpE/Developer-Portfolio-Website-Design--Community-?node-id=0-1&p=f&t=rHOELxtjnSQPAaiP-0" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">UI-khmessah.com</a>
                       </div>
                   </div>
               </div>
@@ -85,17 +85,17 @@ export default function Projects()
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="icon-link.svg" alt="icon-link"></img>
-                      <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Pseudo-3D</p>
+                      <a href="https://github.com/dujamess/Pseudo-3D" target="_blanck" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Pseudo-3D</a>
                     </div>
                   </div>
                   <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move2 border-[0.5px] border-move1 rounded-t-[10px]">
-                      <img src="Docklab.svg" alt="Docklab"></img>
+                      <img src="DockLab2.svg" alt="Docklab"></img>
                       <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">docker, docker-compose, virtuel machine</p>
                     </div>
                       <div className="w-[205px]  bg-move2 border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link"></img>
-                        <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Docklab</p>
+                        <a href="https://github.com/dujamess/Docklab"  target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Docklab</a>
                       </div>
                   </div>
                 <div className="flex-col space-y-2">
@@ -106,7 +106,7 @@ export default function Projects()
                     </div>
                       <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link"></img>
-                        <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">2D Sprite Renderer</p>
+                        <a href="https://github.com/dujamess/2D-Sprite-Renderer" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">2D Sprite Renderer</a>
                       </div>
                   </div>
               </div>
