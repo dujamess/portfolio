@@ -65,13 +65,13 @@ export default function Projects()
                   </div>
                 <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move border-[0.5px] border-move1 rounded-t-[10px]">
-                      <img src="WiseThreads.svg" alt="WiseThreads"></img>
-                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">langag c++</p>
+                      <img src="UIkhmessah.png" alt="UIkhmessah"></img>
+                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">figma</p>
                       <br></br>
                     </div>
                       <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link"></img>
-                        <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">WiseThreads</p>
+                        <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">UI-khmessah.com</p>
                       </div>
                   </div>
               </div>
@@ -108,6 +108,20 @@ export default function Projects()
                         <img src="icon-link.svg" alt="icon-link"></img>
                         <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">2D Sprite Renderer</p>
                       </div>
+                  </div>
+              </div>
+
+              <div className="flex justify-around mt-8">
+                  <div className="flex-col space-y-2">
+                    <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
+                      <img src="WiseThreads.svg" alt="WiseThreads"></img>
+                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">langag c++</p>
+                      <br></br>
+                    </div>
+                    <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
+                      <img src="icon-link.svg" alt="icon-link"></img>
+                      <p className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">WiseThreads</p>
+                    </div>
                   </div>
               </div>
           </div>
