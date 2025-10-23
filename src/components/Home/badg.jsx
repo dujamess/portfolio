@@ -6,7 +6,7 @@ function Badge() {
             <span className="text-[14px] font-normal text-[#FFFFFF]">Hi, I’m </span>
             <span className="text-[14px] font-bold text-[#FFFFFF]">Khadija Messah </span>
             <span className="text-[14px] font-medium text-[#FFFFFF]">a passionate </span>
-            <span className="text-[14px] font-bold text-[#FBF3D1]">Full-Stack Developer</span>
+            <span className="text-[14px] font-bold text-hlibi">Full-Stack Developer</span>
         </p>
         <p className="font-inter text-[9px] text-[#C5C7BC]">with a strong focus on building clean,
             user-friendly, and efficient web applications.
