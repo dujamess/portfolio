@@ -11,7 +11,11 @@ function Badge() {
         <p className="font-inter text-[9px] text-[#C5C7BC]">with a strong focus on building clean,
             user-friendly, and efficient web applications.
             I love turning ideas into reality through code and design.</p>
-        <button className="w-15 h-5 bg-amber-100 rounded-sm mt-2 text-center font-inter text-[7px]">Download CV</button>
+                    <div className="flex justify-center">
+                    <a href="/home/khmessah/goinfre/port/public" download={"khadija-messah-resume.pdf"} className="bg-hlibi w-[58px] h-[21px] rounded-[5px] font-inter text-[7px] font-medium text-move flex"> 
+                        <span className="ml-2 mt-2">Download CV</span></a>
+
+            </div>
       </div>
     );
   }
