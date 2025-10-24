@@ -20,12 +20,12 @@ export default function About()
                 </p>
                 <img src="ptofile1.svg" alt="ptofile" className=" pr-7"></img>
             </div>
-            <div className="flex justify-center">
+        </div>
+            <div className="absolute flex justify-center mt-[350px]  w-[746px] h-3">
                 <a href="khadija-messah-resume.pdf" download className="bg-hlibi w-[58px] h-[21px] rounded-[5px] font-inter text-[7px] font-medium text-move flex"> 
                 <span className="ml-2 mt-2">Download CV</span></a>
 
             </div>
-        </div>
         <Education/>
         <WorkExperience/>
     </>
