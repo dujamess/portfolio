@@ -2,8 +2,9 @@ export default function Projects()
 {
     return (
       <div className="w-[746px]">
-          <div className="flex justify-center">
-              <p className="font-inter text-hlibi font-medium text-[16px]  mt-[100px]">Projects</p>
+          <div className="flex justify-center space-x-2 mt-[100px]">
+              <img src="Vector.svg" alt="icon-projects"></img>
+              <p className="font-inter text-hlibi font-medium text-[16px]">Projects</p>
           </div>
           <div className="flex-col">
               <div className="flex justify-around mt-8">
