@@ -2,7 +2,7 @@ function MiniProject(){
     return (
         <div>
             <div className="flex justify-center mt-24 space-x-2">
-                <img src="Vector.svg" alt=""></img>
+                <img src="Vector.svg" alt="icon-miniproject"></img>
                 <span className="font-inter text-[14px] text-hlibi">Projects</span>
             </div>
             <div className="flex justify-between space-x-8 pt-10">

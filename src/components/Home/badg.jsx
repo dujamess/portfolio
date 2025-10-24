@@ -12,7 +12,7 @@ function Badge() {
             user-friendly, and efficient web applications.
             I love turning ideas into reality through code and design.</p>
                     <div className="flex justify-center">
-                    <a href="/home/khmessah/goinfre/port/public" download={"khadija-messah-resume.pdf"} className="bg-hlibi w-[58px] h-[21px] rounded-[5px] font-inter text-[7px] font-medium text-move flex"> 
+                    <a href="khadija-messah-resume.pdf" download className="bg-hlibi w-[58px] h-[21px] rounded-[5px] font-inter text-[7px] font-medium text-move flex"> 
                         <span className="ml-2 mt-2">Download CV</span></a>
 
             </div>

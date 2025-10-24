@@ -115,7 +115,7 @@ export default function Projects()
                   <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
                       <img src="WiseThreads.svg" alt="WiseThreads"></img>
-                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">langag c++</p>
+                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">langage c</p>
                       <br></br>
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
