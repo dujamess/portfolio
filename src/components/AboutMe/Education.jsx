@@ -1,18 +1,24 @@
 export default function Education()
 {
     return (
-        <div className="w-[746px] ">
+        <div className="w-[746px]">
             <div className="flex mt-[55px] space-x-2">
                 <div>
                     <div className="flex ">
                         <img src="education-icon.svg" alt="education-icon"></img>
                         <p className="font-inter text-hlibi font-medium text-[16px] ml-2">Eduction</p>
                     </div>
-                    <div className="flex space-x-2 ">
-                        <div className=" ml-4 w-px bg-hlibi"></div>
-                        <div className="flex-col ">
+                    <div className="flex space-x-2  ">
+                        <div className="w-px bg-hlibi ml-4 flex-col"></div>
+                        <div className="absolute ml-2.5">
+                            <img src="cercle-line.svg" alt="" className="mt-[30px]"></img>
+                            <img src="cercle-line.svg" alt="" className="mt-[92px]"></img>
+                            <img src="cercle-line.svg" alt="" className="mt-[92px]"></img>
+                            <img src="cercle-line.svg" alt="" className="mt-[92px]"></img>
+                        </div>
+                        <div className="flex-col">
                                 <br></br>
-                                <div className="flex-col text-base/loose">
+                                <div className="flex-col text-base/loose ">
                                     <ul className="list-disc font-inter font-light text-hlibi text-[15px] pl-10">1337  (42 Network)  ||  Benguerir	</ul>
                                     <li className="font-inter font-light text-hlibi text-[14px] ml-16">Junior Full-stack Developer </li>
                                     <p className="font-inter font-light text-hlibi text-[11px] ml-16">Octobre 2023 – Septembre 2025</p>
@@ -35,7 +41,6 @@ export default function Education()
                                     <li className="font-inter font-light text-hlibi text-[14px] ml-16">licence sciences économiques et gestion</li>
                                     <p className="font-inter font-light text-hlibi text-[11px] ml-16">Septembre 2014 – Juin 2017</p>
                                 </div>
-
                         </div>
                     </div>
                 </div>
