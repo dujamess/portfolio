@@ -66,12 +66,12 @@ export default function Projects()
                   </div>
                 <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move border-[0.5px] border-move1 rounded-t-[10px]">
-                      <img src="UIkhmessah.png" alt="UIkhmessah"></img>
+                      <img src="folio.svg" alt="UIkhmessah"></img>
                       <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">figma</p>
                       <br></br>
                     </div>
                       <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
-                        <img src="icon-link.svg" alt="icon-link"></img>
+                        <img src="icon-link.svg" alt="icon-link" ></img>
                         <a href="https://www.figma.com/design/umEgYSSSezBEjrtsLUrGpE/Developer-Portfolio-Website-Design--Community-?node-id=0-1&p=f&t=rHOELxtjnSQPAaiP-0" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">UI-khmessah.com</a>
                       </div>
                   </div>
