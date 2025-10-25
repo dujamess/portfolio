@@ -26,7 +26,7 @@ export default function About()
                 <span className="ml-2 mt-2">Download CV</span></a>
             </div>
         <Education/>
-        {/* <WorkExperience/> */}
+        <WorkExperience/>
     </>
     )
 }
