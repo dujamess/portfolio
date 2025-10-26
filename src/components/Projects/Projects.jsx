@@ -61,7 +61,7 @@ export default function Projects()
                     </div>
                       <div className="w-[205px]  bg-move2 border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link"></img>
-                        <a href="https://github.com/dujamess/portfolio" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">khmessah.com</a>
+                        <a href="https://github.com/dujamess/portfolio" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">khadija-messah.me</a>
                       </div>
                   </div>
                 <div className="flex-col space-y-2">
@@ -72,7 +72,7 @@ export default function Projects()
                     </div>
                       <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="icon-link.svg" alt="icon-link" ></img>
-                        <a href="https://www.figma.com/design/umEgYSSSezBEjrtsLUrGpE/Developer-Portfolio-Website-Design--Community-?node-id=0-1&p=f&t=rHOELxtjnSQPAaiP-0" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">UI-khmessah.com</a>
+                        <a href="https://www.figma.com/design/umEgYSSSezBEjrtsLUrGpE/Developer-Portfolio-Website-Design--Community-?node-id=0-1&p=f&t=rHOELxtjnSQPAaiP-0" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">UI-khadija-messah.me</a>
                       </div>
                   </div>
               </div>
