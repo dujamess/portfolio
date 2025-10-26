@@ -7,7 +7,7 @@ import Contact from './components/contact.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <div className='relative w-screen  bg-move'>
-      <div className="absolute w-full h-full bg-[url('anim-bg.gif')]  bg-size-[250px_200px] bg-repeat opacity-[0.30]"></div>
+      <div className="absolute w-full h-full bg-[url('anim-bg.gif')] bg-[length:250px_200px] bg-repeat opacity-[0.30]"></div>
       <div className='relative w-full h-full flex flex-col justify-start pt-10 items-center '>
         <App />
         <Contact/>
