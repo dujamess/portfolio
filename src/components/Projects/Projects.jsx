@@ -115,15 +115,27 @@ export default function Projects()
               <div className="flex justify-around mt-8">
                   <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
-                      <img src="WiseThreads.svg" alt="WiseThreads"></img>
-                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">langage c</p>
+                      <img src="smartcity.svg" alt="smartcity"></img>
+                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">C#, Unity, Blender,VR</p>
                       <br></br>
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="icon-link.svg" alt="icon-link"></img>
-                      <a href="https://github.com/dujamess/WiseThreads" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">WiseThreads</a>
+                      <a href="Smart_City.mp4" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">SmartCity</a>
                     </div>
                   </div>
+                  <div className="flex-col space-y-2">
+                    <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
+                      <img src="Pink_room.svg" alt="Pink_room"></img>
+                      <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">Blender</p>
+                      <br></br>
+                    </div>
+                    <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
+                      <img src="icon-link.svg" alt="icon-link"></img>
+                      <a href="pink-room.mp4" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">GamingRoom</a>
+                    </div>
+                  </div>
+                  
               </div>
           </div>
       </div>
