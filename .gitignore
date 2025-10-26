@@ -30,17 +30,3 @@ build/
 ehthumbs.db
 Thumbs.db
 
-# Large media files (handled by Git LFS)
-# *.mp4
-# *.mov
-# *.avi
-# *.mkv
-# *.wmv
-# *.flv
-# *.webm
-# *.m4v
-
-# Large image files (if needed)
-# *.psd
-# *.ai
-# *.sketch
