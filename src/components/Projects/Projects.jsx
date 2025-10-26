@@ -121,7 +121,7 @@ export default function Projects()
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="icon-link.svg" alt="icon-link"></img>
-                      <a href="Smart_City.mp4" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">SmartCity</a>
+                      <a href="/Smart_City.mp4" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">SmartCity</a>
                     </div>
                   </div>
                   <div className="flex-col space-y-2">
@@ -132,7 +132,7 @@ export default function Projects()
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="icon-link.svg" alt="icon-link"></img>
-                      <a href="smarcity_project.pdf" download target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">PDF-SmartCity</a>
+                      <a href="/smarcity_project.pdf" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">PDF-SmartCity</a>
                     </div>
                   </div>
                   <div className="flex-col space-y-2">
@@ -143,7 +143,7 @@ export default function Projects()
                     </div>
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="icon-link.svg" alt="icon-link"></img>
-                      <a href="pink-room.mp4" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">GamingRoom</a>
+                      <a href="/pink-room.mp4" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">GamingRoom</a>
                     </div>
                   </div>
               </div>
