@@ -3,7 +3,7 @@ function Skills()
     return(
         <div className="w-[747px]">
             <div className="flex justify-center pt-24 pb-10">
-                <img src="Group.svg" alt=""></img>
+                <img src="/Group.svg" alt=""></img>
                 <span className="font-inter text-[14px] text-hlibi">Skills</span>
             </div>
             <div className=" border-[0.5px] border-move1 bg-move rounded-[10px] flex pt-4 pb-4">

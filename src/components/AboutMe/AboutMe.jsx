@@ -6,7 +6,7 @@ export default function About()
     <>
         <div className="w-[746px]  bg-move2 rounded-[10px] mt-[100px]">
             <div className="flex p-4 space-x-2">
-                <img src="icon-about.svg" alt="icon-about-me"></img>
+                <img src="/icon-about.svg" alt="icon-about-me"></img>
                 <p className="font-inter font-medium text-[16px] text-hlibi">About-me</p>
             </div>
             <div className="flex">
@@ -18,11 +18,11 @@ export default function About()
                         life. I am passionate about leveraging my diverse skillset to contribute to dynamic projects 
                         and grow within a forward-thinking team.
                 </p>
-                <img src="ptofile1.svg" alt="ptofile" className=" pr-7 pb-10"></img>
+                <img src="/ptofile1.svg" alt="ptofile" className=" pr-7 pb-10"></img>
             </div>
         </div>
             <div className="absolute flex justify-center mt-[390px] w-[746px] h-3">
-                <a href="khadija-messah-resume.pdf" download className="bg-hlibi w-[58px] h-[21px] rounded-[5px] font-inter text-[7px] font-medium text-move flex"> 
+                <a href="/khadija-messah-resume.pdf" download className="bg-hlibi w-[58px] h-[21px] rounded-[5px] font-inter text-[7px] font-medium text-move flex"> 
                 <span className="ml-2 mt-1">Download CV</span></a>
             </div>
         <Education/>

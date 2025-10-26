@@ -12,7 +12,7 @@ function App() {
     <div className="flex flex-col items-center">
       <BrowserRouter>
         <div className='h-[46px] w-[747px] border-[0.5px] border-move1 rounded-[10px] justify-end  items-center flex space-x-24 pr-8'>
-                <img className=" w-10 mr-80"  src="logo.gif" alt="logo"></img>
+                <img className=" w-10 mr-80"  src="/logo.gif" alt="logo"></img>
                 <Link to="/" className="font-inter  text-hlibi text-[12px]">Home</Link>
                 <Link to="/Projects" className="font-inter  text-hlibi text-[12px]">Projects</Link>
                 <Link to="/About-me" className="font-inter  text-hlibi text-[12px]">about-me</Link>

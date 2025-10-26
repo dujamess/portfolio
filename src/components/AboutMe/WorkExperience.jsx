@@ -5,7 +5,7 @@ export default function WorkExperience()
             <div className="flex mt-[55px] space-x-2">
                 <div className="flex-col">
                     <div className="flex ">
-                        <img src="experience.svg" alt=""></img>
+                        <img src="/experience.svg" alt=""></img>
                         <p className="font-inter text-hlibi font-medium text-[16px] ml-2">Work Experience</p>
                     </div>
                 </div>
@@ -13,8 +13,8 @@ export default function WorkExperience()
                 <div className="flex space-x-2">
                     <div className="w-px bg-hlibi ml-[19px]"></div>
                      <div className="absolute ml-3">
-                            <img src="cercle-line.svg" alt="" className="mt-[30px]"></img>
-                            <img src="cercle-line.svg" alt="" className="mt-[92px]"></img>
+                            <img src="/cercle-line.svg" alt="" className="mt-[30px]"></img>
+                            <img src="/cercle-line.svg" alt="" className="mt-[92px]"></img>
                         </div>
                     <div className="flex-col">
                         <br></br>

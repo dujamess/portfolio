@@ -20,16 +20,16 @@ createRoot(document.getElementById('root')).render(
         <div  className=' w-[1000px]'>
                 <div className=' absolute flex justify-center space-x-2  w-[1000px] mt-10 '>
                     <a href='https://mail.google.com/mail/u/0/#inbox?compose=new' target='_blank'>
-                      <img src="Email-icon.svg" alt="Email" className='w-[15px] h-[15px] ml-[150px]'></img>
+                      <img src="/Email-icon.svg" alt="Email" className='w-[15px] h-[15px] ml-[150px]'></img>
                     </a>
                     <a href='https://www.linkedin.com/in/khadija-messah-09a171152/' target='_blank'>
-                       <img src="linkedin-icon.svg" alt="linkedin" className='w-[15px] h-[15px]'></img>
+                       <img src="/linkedin-icon.svg" alt="linkedin" className='w-[15px] h-[15px]'></img>
                     </a>
                     <a href='https://github.com/dujamess' target='_blank'>
-                      <img src="Github-icon.svg" alt="Github" className='w-[15px] h-[15px]'></img>
+                      <img src="/Github-icon.svg" alt="Github" className='w-[15px] h-[15px]'></img>
                     </a>
                 </div>
-            <img src="design-background.svg" alt='design-background '/>
+            <img src="/design-background.svg" alt='design-background '/>
         </div>
       </div>
     </div>

@@ -5,16 +5,16 @@ export default function Education()
             <div className="flex mt-[55px] space-x-2">
                 <div>
                     <div className="flex ">
-                        <img src="education-icon.svg" alt="education-icon"></img>
+                        <img src="/education-icon.svg" alt="education-icon"></img>
                         <p className="font-inter text-hlibi font-medium text-[16px] ml-2">Eduction</p>
                     </div>
                     <div className="flex space-x-2  ">
                         <div className="w-px bg-hlibi ml-4 flex-col"></div>
                         <div className="absolute ml-2.5">
-                            <img src="cercle-line.svg" alt="" className="mt-[30px]"></img>
-                            <img src="cercle-line.svg" alt="" className="mt-[92px]"></img>
-                            <img src="cercle-line.svg" alt="" className="mt-[92px]"></img>
-                            <img src="cercle-line.svg" alt="" className="mt-[92px]"></img>
+                            <img src="/cercle-line.svg" alt="" className="mt-[30px]"></img>
+                            <img src="/cercle-line.svg" alt="" className="mt-[92px]"></img>
+                            <img src="/cercle-line.svg" alt="" className="mt-[92px]"></img>
+                            <img src="/cercle-line.svg" alt="" className="mt-[92px]"></img>
                         </div>
                         <div className="flex-col">
                                 <br></br>
