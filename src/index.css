@@ -4,6 +4,13 @@
 
 @theme {
   --font-inter:'Inter', 'sans-serif'
+}
+
+.animated-bg {
+  background-image: url('anim-bg.gif');
+  background-size: 250px 200px;
+  background-repeat: repeat;
+  opacity: 0.30;
 } 
 @theme {
   --color-custom: #6F826A;
