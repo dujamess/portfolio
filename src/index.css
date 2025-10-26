@@ -7,7 +7,6 @@
 }
 
 .animated-bg {
-  background-image: url('anim-bg.gif');
   background-size: 250px 200px;
   background-repeat: repeat;
   opacity: 0.30;

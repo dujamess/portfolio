@@ -3,11 +3,15 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import Contact from './components/contact.jsx'
+import animBg from '/anim-bg.gif'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <div className='relative w-screen  bg-move'>
-      <div className="absolute w-full h-full animated-bg"></div>
+      <div 
+        className="absolute w-full h-full animated-bg"
+        style={{ backgroundImage: `url(${animBg})` }}
+      ></div>
       <div className='relative w-full h-full flex flex-col justify-start pt-10 items-center '>
         <App />
         <Contact/>
