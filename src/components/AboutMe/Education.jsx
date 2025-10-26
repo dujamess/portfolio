@@ -19,27 +19,27 @@ export default function Education()
                         <div className="flex-col">
                                 <br></br>
                                 <div className="flex-col text-base/loose ">
-                                    <ul className="list-disc font-inter font-light text-hlibi text-[15px] pl-10">1337  (42 Network)  ||  Benguerir	</ul>
-                                    <li className="font-inter font-light text-hlibi text-[14px] ml-16">Junior Full-stack Developer </li>
-                                    <p className="font-inter font-light text-hlibi text-[11px] ml-16">Octobre 2023 – Septembre 2025</p>
+                                    <ul className="list-disc font-inter font-light text-hlibi text-[14px] pl-10">1337  (42 Network)  ||  Benguerir	</ul>
+                                    <li className="font-inter font-light text-hlibi text-[13px] ml-16">Junior Full-stack Developer </li>
+                                    <p className="font-inter font-light text-hlibi text-[9px] ml-16">Octobre 2023 – Septembre 2025</p>
                                 </div>
                                 <br></br>
                                 <div className="flex-col text-base/loose">
-                                    <ul className="font-inter font-light text-hlibi text-[15px] pl-10">UM6P - Mohammed VI Polytechnic University   || Benguerir		</ul>
-                                    <li className="font-inter font-light text-hlibi text-[14px] ml-16">Certificat Principes de conception de l’expérience utilisateur (UX)</li>
-                                    <p className="font-inter font-light text-hlibi text-[11px] ml-16">Juin 2023 – Janvier  2024</p>
+                                    <ul className="font-inter font-light text-hlibi text-[14px] pl-10">UM6P - Mohammed VI Polytechnic University   || Benguerir		</ul>
+                                    <li className="font-inter font-light text-hlibi text-[13px] ml-16">Certificat Principes de conception de l’expérience utilisateur (UX)</li>
+                                    <p className="font-inter font-light text-hlibi text-[9px] ml-16">Juin 2023 – Janvier  2024</p>
                                 </div>
                                 <br></br>
                                 <div className="flex-col text-base/loose">
-                                    <ul className="list-disc font-inter font-light text-hlibi text-[15px] pl-10">UM6P - Mohammed VI Polytechnic University   || Benguerir	</ul>
-                                    <li className="font-inter font-light text-hlibi text-[14px] ml-16">EON-XR Smart Worker Workshop</li>
-                                    <p className="font-inter font-light text-hlibi text-[11px] ml-16">Octobre 2022 – Juin 2023</p>
+                                    <ul className="list-disc font-inter font-light text-hlibi text-[14px] pl-10">UM6P - Mohammed VI Polytechnic University   || Benguerir	</ul>
+                                    <li className="font-inter font-light text-hlibi text-[13px] ml-16">EON-XR Smart Worker Workshop</li>
+                                    <p className="font-inter font-light text-hlibi text-[9px] ml-16">Octobre 2022 – Juin 2023</p>
                                 </div>
                                 <br></br>
                                 <div className="flex-col text-base/loose">
-                                    <ul className="list-disc font-inter font-light text-hlibi text-[15px] pl-10">Université Sultan Moulay Slimane    || Beni mellal		</ul>
-                                    <li className="font-inter font-light text-hlibi text-[14px] ml-16">licence sciences économiques et gestion</li>
-                                    <p className="font-inter font-light text-hlibi text-[11px] ml-16">Septembre 2014 – Juin 2017</p>
+                                    <ul className="list-disc font-inter font-light text-hlibi text-[14px] pl-10">Université Sultan Moulay Slimane    || Beni mellal		</ul>
+                                    <li className="font-inter font-light text-hlibi text-[13px] ml-16">licence sciences économiques et gestion</li>
+                                    <p className="font-inter font-light text-hlibi text-[9px] ml-16">Septembre 2014 – Juin 2017</p>
                                 </div>
                         </div>
                     </div>
