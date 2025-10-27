@@ -120,7 +120,7 @@ export default function Projects()
                     </div>
                     <div className=" bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="/icon-link.svg" alt="icon-link"></img>
-                      <a href="/project_Smart_City.mp4" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">SmartCity</a>
+                      <a href="https://youtu.be/SkKlfAdVnW8" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">SmartCity</a>
                     </div>
                   </div>
                   <div className="flex-col w-60 h-55">
