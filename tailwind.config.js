@@ -7,9 +7,9 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        inter: ['Inter', 'system-ui', 'sans-serif'],
         luckiest: ['"Luckiest Guy"', 'cursive'],
-        inter: ['Inter', 'sans-serif'],
-      },
+      },      
       width: (() => {
         const obj = {};
         for (let i = 0; i <= 100; i++) obj[i] = `${i}%`;

@@ -1,7 +1,7 @@
 function Badge() {
     return (
       <div className="mt-24 bg-move2 w-[318px] rounded-[10px] flex flex-col text-center p-8  items-center ">
-        <img src="/ptofile.svg" alt="photo profil" className="mb-3" />
+        <img src="/ptofile.svg" alt="photo profil" className="mb-3 w-[200px] h-[200px]" />
         <p>
             <span className="text-[14px] font-normal text-[#FFFFFF]">Hi, I’m </span>
             <span className="text-[14px] font-bold text-[#FFFFFF]">Khadija Messah </span>
