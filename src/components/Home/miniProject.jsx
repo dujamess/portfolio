@@ -19,7 +19,7 @@ function MiniProject(){
                         </div>
                 </div>
                 <div className="bg-[#5C5470] border-[0.5px] border-move1 rounded-[10px] h-[293px] w-[277px] ">
-                    <img src="/DockLab.png" alt="DockLab" className=" w-[293px] h-[200px] rounded-t-2xl"></img>
+                    <img src="/DockLab.png" alt="DockLab" className=" w-[293px] h-[160px] rounded-t-2xl"></img>
                     <p className="text-hlibi font-inter text-[9px] font-medium p-2">DockLab</p>
                      <p className="font-inter text-[9px] font-normal p-2 text-[#C5C7BC]">Mise en place d'une infrastructure virtualisée 
                         avec Docker, intégrant MariaDB, WordPress, 
