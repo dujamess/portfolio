@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         luckiest: ['"Luckiest Guy"', 'cursive'],
+        inter: ['Inter', 'sans-serif'],
       },
       width: (() => {
         const obj = {};
