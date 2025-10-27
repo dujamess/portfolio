@@ -10,4 +10,23 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    rollupOptions: {
+      output: {
+        assetFileNames: (assetInfo) => {
+          const info = assetInfo.name.split('.')
+          const ext = info[info.length - 1]
+          if (/\.(mp4|webm|ogg|avi|mov)$/i.test(assetInfo.name)) {
+            return `assets/videos/[name]-[hash][extname]`
+          }
+          return `assets/[name]-[hash][extname]`
+        }
+      }
+    }
+  },
+  server: {
+    fs: {
+      allow: ['..']
+    }
+  }
 })
