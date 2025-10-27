@@ -6,7 +6,7 @@ export default function About()
     <>
         <div className="w-[746px]  bg-move2 rounded-[10px] mt-[100px]">
             <div className="flex p-4 space-x-2">
-                <img src="/icon-about.svg" alt="icon-about-me"></img>
+                <img src="/icon-about.svg" alt="icon-about-me" className="w-[28px] h-[30px]"></img>
                 <p className="font-inter font-medium text-[16px] text-hlibi">About-me</p>
             </div>
             <div className="flex">
@@ -18,7 +18,7 @@ export default function About()
                         life. I am passionate about leveraging my diverse skillset to contribute to dynamic projects 
                         and grow within a forward-thinking team.
                 </p>
-                <img src="/ptofile1.svg" alt="ptofile" className=" pr-7 pb-10"></img>
+                <img src="/ptofile1.svg" alt="ptofile" className=" pr-4 pb-10 w-[200px] h-[200px]"></img>
             </div>
         </div>
             <div className="absolute flex justify-center mt-[390px] w-[746px] h-3">

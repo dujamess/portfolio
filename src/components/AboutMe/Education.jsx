@@ -5,7 +5,7 @@ export default function Education()
             <div className="flex mt-[55px] space-x-2">
                 <div>
                     <div className="flex ">
-                        <img src="/education-icon.svg" alt="education-icon"></img>
+                        <img src="/education-icon.svg" alt="education-icon" className=""></img>
                         <p className="font-inter text-hlibi font-medium text-[16px] ml-2">Eduction</p>
                     </div>
                     <div className="flex space-x-2  ">

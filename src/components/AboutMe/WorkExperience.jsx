@@ -11,8 +11,8 @@ export default function WorkExperience()
                 </div>
             </div>
                 <div className="flex space-x-2">
-                    <div className="w-px bg-hlibi ml-[19px]"></div>
-                     <div className="absolute ml-3">
+                    <div className="w-px bg-hlibi ml-4"></div>
+                     <div className="absolute ml-2.5">
                             <img src="/cercle-line.svg" alt="" className="mt-[30px]"></img>
                             <img src="/cercle-line.svg" alt="" className="mt-[92px]"></img>
                         </div>
