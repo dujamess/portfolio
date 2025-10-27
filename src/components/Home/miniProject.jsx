@@ -7,7 +7,7 @@ function MiniProject(){
             </div>
             <div className="flex justify-between space-x-8 pt-10">
                 <div className="bg-move border-[0.5px] border-move1 rounded-[10px] h-[234px] w-[199px] mt-5">
-                    <img src="/ui-trans.svg" alt="ui-trans.svg"></img>
+                    <img src="/ui-trans.svg" alt="ui-trans.svg" className="w-[220px] h-[112px]"></img>
                     <p className="text-hlibi font-inter text-[9px] font-medium p-2">GameConnect</p>
                     <p className="font-inter text-[9px] font-normal p-2 text-[#C5C7BC]">Application web full-stack combinant jeu Pong en temps réel, chat instantané, 
                         gestion des utilisateurs et microservices</p>
@@ -19,7 +19,7 @@ function MiniProject(){
                         </div>
                 </div>
                 <div className="bg-[#5C5470] border-[0.5px] border-move1 rounded-[10px] h-[293px] w-[277px] ">
-                    <img src="/DockLab.svg" alt="DockLab" className=" w-[293px] "></img>
+                    <img src="/DockLab.png" alt="DockLab" className=" w-[293px] h-[200px] rounded-t-2xl"></img>
                     <p className="text-hlibi font-inter text-[9px] font-medium p-2">DockLab</p>
                      <p className="font-inter text-[9px] font-normal p-2 text-[#C5C7BC]">Mise en place d'une infrastructure virtualisée 
                         avec Docker, intégrant MariaDB, WordPress, 
@@ -30,7 +30,7 @@ function MiniProject(){
                         </div>
                 </div>
                 <div className="bg-move border-[0.5px] border-move1 rounded-[10px] h-[232px] w-[191px] mt-5">
-                    <img src="/corserve.svg" alt="corserve"></img>
+                    <img src="/corserve.svg" alt="corserve" className="w-[225px] h-[110px]"></img>
                     <p className="text-hlibi font-inter text-[9px] font-medium p-2">CoreServe</p>
                     <p className="font-inter text-[9px] font-normal pt-2 pl-2 text-[#C5C7BC]">Développement d’un serveur HTTP en C++ inspiré d’Nginx, avec parsing de configuration,gestion des sockets, traitement des  requêtes/réponses et  support multi-clients.</p>
                     <div className="pl-2">
