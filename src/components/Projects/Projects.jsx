@@ -7,42 +7,41 @@ export default function Projects()
               <p className="font-inter text-hlibi font-medium text-[16px]">Projects</p>
           </div>
           <div className="flex-col">
-              <div className="flex justify-around mt-8">
-                  <div className="flex-col space-y-2">
-                    <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
-                      <img src="/gameconnecte.svg" alt="gameconnecte"></img>
+              <div className="flex justify-between mt-8">
+                  <div className="w-60 flex-col h-60 bg-move">
+                    <div className=" h-full border-[0.5px]  border-move1 rounded-t-[10px]">
+                      <img src="/gameconnecte.svg" alt="gameconnecte" className="w-60"></img>
                       <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">JavaScript,React,Fastify,Node.js,Microservices Architecture, HTML, CSS, Tailwind CSS</p>
-                      <br></br>
                     </div>
-                    <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
+                    <div className=" bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                       <img src="/icon-link.svg" alt="icon-link"></img>
                       <a href="https://github.com/dujamess/GameConnect"  target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">GameConnect</a>
                     </div>
                   </div>
-                  <div className="flex-col space-y-2">
-                    <div className="w-[205px]  bg-move2 border-[0.5px] border-move1 rounded-t-[10px]">
-                      <img src="/UItrans.svg" alt="UItrans"></img>
+                  <div className="w-60 flex-col h-60 bg-move">
+                    <div className=" h-full border-[0.5px] border-move1 rounded-t-[10px]">
+                      <img src="/UItrans.svg" alt="UItrans" className="w-60"></img>
                       <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">figma</p>
                     </div>
-                      <div className="w-[205px]  bg-move2 border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
+                      <div className=" bg-move2 border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="/icon-link.svg" alt="icon-link"></img>
                         <a href="https://www.figma.com/design/0P8kPpsnqV9DJtwH1fThbQ/Untitled?node-id=402-3406&p=f&t=rHOELxtjnSQPAaiP-0" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Ui-GameConnect</a>
                       </div>
                   </div>
-                <div className="flex-col space-y-2">
-                    <div className="w-[205px]  bg-move border-[0.5px] border-move1 rounded-t-[10px]">
-                      <img src="/corserve1.svg" alt="corserve"></img>
+                <div className="w-60 flex-col h-60 bg-move">
+                    <div className="h-full bg-move border-[0.5px] border-move1 rounded-t-[10px]">
+                      <img src="/corserve1.svg" alt="corserve" className="w-60"></img>
                       <p className="font-inter font-light text-[9px] text-[#DEDED1] p-1">langag c++</p>
                       <br></br>
                     </div>
-                      <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
+                      <div className=" bg-move border-[0.5px]  border-move1 rounded-b-[10px] flex justify-center">
                         <img src="/icon-link.svg" alt="icon-link"></img>
                         <a href="https://github.com/dujamess/coreserve" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">Coreserve</a>
                       </div>
                   </div>
               </div>
 
-              <div className="flex justify-around mt-8">
+              {/* <div className="flex justify-around mt-8">
                   <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
                       <img src="/algoswap.svg" alt="algoswap"></img>
@@ -75,9 +74,9 @@ export default function Projects()
                         <a href="https://www.figma.com/design/umEgYSSSezBEjrtsLUrGpE/Developer-Portfolio-Website-Design--Community-?node-id=0-1&p=f&t=rHOELxtjnSQPAaiP-0" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">UI-khadija-messah.me</a>
                       </div>
                   </div>
-              </div>
+              </div> */}
 
-              <div className="flex justify-around mt-8">
+              {/* <div className="flex justify-around mt-8">
                   <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
                       <img src="/Pseudo-3D.svg" alt="Pseudo-3D"></img>
@@ -110,9 +109,9 @@ export default function Projects()
                         <a href="https://github.com/dujamess/2D-Sprite-Renderer" target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">2D Sprite Renderer</a>
                       </div>
                   </div>
-              </div>
+              </div> */}
 
-              <div className="flex justify-around mt-8">
+              {/* <div className="flex justify-around mt-8">
                   <div className="flex-col space-y-2">
                     <div className="w-[205px]  bg-move border-[0.5px]  border-move1 rounded-t-[10px]">
                       <img src="/smartcity.svg" alt="smartcity"></img>
@@ -146,7 +145,7 @@ export default function Projects()
                       <a href="/pink.mp4"  target="_blank" className="font-inter font-medium text-[12px] text-[#DEDED1] p-1">GamingRoom</a>
                     </div>
                   </div>
-              </div>
+              </div> */}
           </div>
       </div>
     )
