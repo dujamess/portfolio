@@ -1,6 +1,6 @@
 function Contact(){
     return(
-        <div className="border-[0.5px] border-move1 h-[177px] w-[355px] rounded-[10px] mt-[120px] bg-move mb-24 ">
+        <div className="border-[0.05vw] border-move1 h-[177px] w-[355px] rounded-[1vw] mt-[120px] bg-move mb-24 ">
             <div className="flex justify-center">
                 <p className="font-inter font-normal text-[12px] text-hlibi pt-4">Contact Me</p>
             </div>

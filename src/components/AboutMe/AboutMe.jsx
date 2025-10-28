@@ -4,7 +4,7 @@ export default function About()
 {
     return (
     <>
-        <div className="w-[746px]  bg-move2 rounded-[10px] mt-[100px]">
+        <div className="w-[746px]  bg-move2 rounded-[1vw] mt-[100px]">
             <div className="flex p-4 space-x-2">
                 <img src="/icon-about.svg" alt="icon-about-me" className="w-[28px] h-[30px]"></img>
                 <p className="font-inter font-medium text-[16px] text-hlibi">About-me</p>

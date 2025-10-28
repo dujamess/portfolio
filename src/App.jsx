@@ -9,22 +9,20 @@ import Error from './components/Error/Error'
 function App() {
 
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center  w-full h-full ">
       <BrowserRouter>
-        <div className='h-[46px] w-[747px] border-[0.5px] border-move1 rounded-[10px] justify-end  items-center flex space-x-24 pr-8'>
-                <img className=" w-10 mr-80"  src="/logo.gif" alt="logo"></img>
-                <Link to="/" className="font-inter  text-hlibi text-[12px]">Home</Link>
-                <Link to="/Projects" className="font-inter  text-hlibi text-[12px]">Projects</Link>
-                <Link to="/About-me" className="font-inter  text-hlibi text-[12px]">about-me</Link>
-        </div>
-        <div className="">
+        <div className='w-[52%] border-[0.05vw] border-move1 rounded-[1vw] flex justify-between p-[.5%]'>
+                <img className=" w-[4%] ml-[3%] mt-[0.2%]"  src="/logo.gif" alt="logo"></img>
+                <Link to="/" className="font-inter  text-hlibi text-[0.8vw] mt-[0.8%] ml-[35%]">Home</Link>
+                <Link to="/Projects" className="font-inter  text-hlibi text-[0.8vw] mt-[0.8%]">Projects</Link>
+                <Link to="/About-me" className="font-inter  text-hlibi text-[0.8vw] mt-[0.8%] mr-[3%] ">about-me</Link>
         </div>
         <Routes>
           <Route path="/" element={<Home/>}/>
-          <Route path="/home" element={<Home/>}/>
+          {/* <Route path="/home" element={<Home/>}/>
           <Route path="/Projects" element={<Projects/>}/>
           <Route path="/About-me" element={<About/>}/>
-          <Route path="*" element={<Error/>}/>
+          <Route path="*" element={<Error/>}/> */}
         </Routes>
       </BrowserRouter>
    </div>
