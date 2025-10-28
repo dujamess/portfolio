@@ -1,43 +1,42 @@
 function MiniProject(){
     return (
-        <div className="w-[52%]">
-            <div className="flex w-full justify-center mt-[17%]  space-x-2">
-                <img src="/Vector.svg" alt="icon-miniproject" className="w-[2%] mt-[0.5%] mb-[6%]"></img>
-                <span className="font-inter font-light text-[1vw] text-hlibi mb-[5%]">Projects</span>
+        <div>
+            <div className="flex justify-center mt-24 space-x-2">
+                <img src="/Vector.svg" alt="icon-miniproject"></img>
+                <span className="font-inter text-[14px] text-hlibi">Projects</span>
             </div>
-            <div className="flex justify-between  w-full h-full">
-                <div className="bg-move border-[0.05vw] border-move1 rounded-[1vw] w-[26%] mt-[5.5%] h-[17vw]">
-                    <img src="/ui-trans.svg" alt="ui-trans.svg" className="w-full   rounded-t-[1vw] "></img>
-                    <p className="text-hlibi font-inter text-[0.6vw] font-medium pt-[4%] pl-[4%]">GameConnect</p>
-                    <p className="font-inter text-[0.6vw] font-normal p-[4%] text-[#C5C7BC]">Application web full-stack combinant jeu Pong en temps réel, chat instantané, 
+            <div className="flex justify-between space-x-8 pt-10">
+                <div className="bg-move border-[0.5px] border-move1 rounded-[10px] h-[234px] w-[199px] mt-5">
+                    <img src="/ui-trans.svg" alt="ui-trans.svg" className="w-[220px] h-[112px]"></img>
+                    <p className="text-hlibi font-inter text-[9px] font-medium p-2">GameConnect</p>
+                    <p className="font-inter text-[9px] font-normal p-2 text-[#C5C7BC]">Application web full-stack combinant jeu Pong en temps réel, chat instantané, 
                         gestion des utilisateurs et microservices</p>
-                    <div className="space-x-2 flex justify-start pb-[4%] pl-[4%]">
-                        <img src="/javascript.svg" alt="javascript" className="w-[7%] h-[7%]"></img>
-                        <img src="/react .svg" alt="react" className="w-[7%] h-[7%]"></img>
-                        <img src="/html.svg" alt="html" className="w-[7%] h-[7%]"></img>
-                        <img src="/css.svg" alt="css" className="w-[7%] h-[7%]"></img>
-                    </div>
+                        <div className="space-x-2 flex justify-start p-2">
+                            <img src="/javascript.svg" alt="javascript"></img>
+                             <img src="/react .svg" alt="react"></img>
+                              <img src="/html.svg" alt="html"></img>
+                               <img src="/css.svg" alt="css"></img>
+                        </div>
                 </div>
-                <div className="bg-[#5C5470] border-[0.05vw] border-move1 rounded-[1vw] w-[40%] ">
-                    <img src="/DockLab.png" alt="DockLab" className=" w-full h-[15vw] rounded-t-[1vw]"></img>
-                    <p className="text-hlibi font-inter text-[0.6vw] font-medium pt-[4%] pl-[4%]">DockLab</p>
-                     <p className="font-inter text-[0.6vw] font-normal p-2 text-[#C5C7BC]">Mise en place d'une infrastructure virtualisée 
+                <div className="bg-[#5C5470] border-[0.5px] border-move1 rounded-[10px] h-[293px] w-[277px] ">
+                    <img src="/DockLab.png" alt="DockLab" className=" w-[293px] h-[142px] rounded-t-2xl"></img>
+                    <p className="text-hlibi font-inter text-[9px] font-medium p-2">DockLab</p>
+                     <p className="font-inter text-[9px] font-normal p-2 text-[#C5C7BC]">Mise en place d'une infrastructure virtualisée 
                         avec Docker, intégrant MariaDB, WordPress, 
                         Nginx, Redis, FTPet Adminer, avec gestion des 
                         volumes, réseaux et services interconnectés.</p>
-                        <div className="space-x-2 flex justify-start pb-[4%] pl-[4%]">
-                            <img src="/docker.svg" alt="docker" className="w-[7%] h-[7%]" ></img>
+                        <div className="space-x-2 flex justify-start p-2">
+                            <img src="/docker.svg" alt="docker"></img>
                         </div>
                 </div>
-                <div className="bg-move border-[0.05vw] border-move1 rounded-[1vw] w-[26%] mt-[5.5%] h-[17vw]">
-                    <img src="/corserve.svg" alt="corserve" className="w-full rounded-t-[1vw]"></img>
-                    <p className="text-hlibi font-inter text-[0.6vw] font-medium pt-[4%] pl-[4%]">CoreServe</p>
-                    <p className="font-inter text-[0.6vw] font-normal pt-2 pl-2 text-[#C5C7BC]">Développement d’un serveur HTTP en C++ inspiré d’Nginx, avec parsing de configuration,gestion des sockets, traitement des  requêtes/réponses et  support multi-clients.</p>
-                    <div className="space-x-2 flex justify-start pt-[4%] pl-[4%]">
-                        <img src="/c++.svg" alt="c++" className="w-[7%] h-[7%]"></img>
+                <div className="bg-move border-[0.5px] border-move1 rounded-[10px] h-[232px] w-[191px] mt-5">
+                    <img src="/corserve.svg" alt="corserve" className="w-[225px] h-[110px]"></img>
+                    <p className="text-hlibi font-inter text-[9px] font-medium p-2">CoreServe</p>
+                    <p className="font-inter text-[9px] font-normal pt-2 pl-2 text-[#C5C7BC]">Développement d’un serveur HTTP en C++ inspiré d’Nginx, avec parsing de configuration,gestion des sockets, traitement des  requêtes/réponses et  support multi-clients.</p>
+                    <div className="pl-2">
+                        <img src="/c++.svg" alt="c++"></img>
                     </div>
                 </div>
-                
             </div>
         </div>
     )

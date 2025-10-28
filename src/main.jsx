@@ -16,7 +16,7 @@ createRoot(document.getElementById('root')).render(
         <App />
         <Contact/>
       </div>
-      {/* <div className='flex justify-end'>
+      <div className='flex justify-end'>
         <div  className=' w-[1000px]'>
                 <div className=' absolute flex justify-center space-x-2  w-[1000px] mt-10 '>
                     <a href='https://mail.google.com/mail/u/0/#inbox?compose=new' target='_blank'>
@@ -31,7 +31,7 @@ createRoot(document.getElementById('root')).render(
                 </div>
             <img src="/design-background.svg" alt='design-background '/>
         </div>
-      </div> */}
+      </div>
     </div>
   </StrictMode>,
 )
