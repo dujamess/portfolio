@@ -1,6 +1,6 @@
 function Badge() {
     return (
-      <div className="mt-[6%] bg-move2 w-[22%] rounded-[1vw] flex flex-col text-center p-[2%]  items-center ">
+      <div className="mt-[6%] bg-move2 w-[22%] rounded-[1vw] flex flex-col text-center p-[2%]  items-center">
         <img src="/ptofile.svg" alt="photo profil" className="mb-[1%] w-[85%] h-[85%]" />
         <p>
             <span className="text-[1vw] font-normal text-[#FFFFFF]">Hi, I’m </span>

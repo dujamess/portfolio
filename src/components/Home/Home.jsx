@@ -5,8 +5,8 @@ export default function  Home(){
     return(
         <>
         <Badge/>
+        <Skills/>
         <MiniProject/>
-        {/* <Skills/> */}
         </>
     )
 }
