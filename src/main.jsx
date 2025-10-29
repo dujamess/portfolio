@@ -25,7 +25,7 @@ createRoot(document.getElementById('root')).render(
                     <a href='https://www.linkedin.com/in/khadija-messah-09a171152/' target='_blank'>
                        <img src="/linkedin-icon.svg" alt="linkedin" className='w-[15px] h-[15px]'></img>
                     </a>
-                    <a href='https://github.com/dujamess' target='_blank'>
+                    <a href='https://github.com/khadija-messah' target='_blank'>
                       <img src="/Github-icon.svg" alt="Github" className='w-[15px] h-[15px]'></img>
                     </a>
                 </div>
